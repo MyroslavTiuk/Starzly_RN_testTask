@@ -1,0 +1,6 @@
+module Pods_Starzly_RN_test_Starzly_RN_testTests {
+  umbrella header "Pods-Starzly_RN_test-Starzly_RN_testTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
